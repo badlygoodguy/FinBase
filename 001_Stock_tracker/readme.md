@@ -29,4 +29,4 @@ How to Use
 `python stock_data_import.py`
 ```
 
-3. Database File: The script will automatically create a file named `stock_prices.db` in the same directory. This is your local database containing the downloaded stock data. This file is not intended to be shared on GitHub and is excluded via the `.gitignore` file.
+4. Database File: The script will automatically create a file named `stock_prices.db` in the same directory. This is your local database containing the downloaded stock data. This file is not intended to be shared on GitHub and is excluded via the `.gitignore` file.
